@@ -1,4 +1,4 @@
-```md
+
 # 🧠 Brain Tumor Classification Model
 
 ![Project Screenshot](./btcm.png)  
@@ -42,4 +42,3 @@ This project is licensed under the MIT License.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amanhiranpurohit)  
-```
